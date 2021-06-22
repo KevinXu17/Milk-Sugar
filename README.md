@@ -4,3 +4,7 @@ a cake selling web with mySql database
 This web is for 3 kinds of users: consumer, cakeshop manager, delivery person who delivers cakes and baker.
 Consumer can make or cancel cake order, check the cake shop menu
 employee can log in the web and get some functions which connect to the database
+
+
+
+![Image of Facade pattern](https://github.com/KevinXu17/Milk-Sugar/blob/master/cake.png?raw=true)
